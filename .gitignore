@@ -1,0 +1,8 @@
+node_modules
+*.swp
+*.swo
+serviceAccountKey.json
+lib
+npm-debug.log
+.db.json
+package-lock.json
